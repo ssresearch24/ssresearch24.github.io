@@ -71,7 +71,7 @@ Program committee
 
  * Nina Bindel (SandboxAQ)
  * Joppe Bos (NXP Semiconductors)
- * Sofiía Celi (Brave)
+ * Sofía Celi (Brave)
  * Gareth T. Davies (Bergische Universität Wuppertal)
  * Jean Paul Degabriele (Cryptography Research Center, TII)
  * Benjamin Dowling (University of Sheffield)
