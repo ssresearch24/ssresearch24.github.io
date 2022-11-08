@@ -88,6 +88,7 @@ Program committee
  * Giorgia Azzurra Marson (NEC)
  * Shin'Ichiro Matsuo (Georgetown University)
  * Catherine Meadows (Naval Research Laboratory)
+ * Maryam Mehrnezhad (Royal Holloway, University of London)
  * Chris Mitchell (Royal Holloway, University of London)
  * Elisabeth Oswald (University of Klagenfurt)
  * Kenneth Paterson (ETH Zurich)
