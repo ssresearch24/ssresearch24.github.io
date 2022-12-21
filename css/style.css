@@ -10,6 +10,16 @@ h1 {
   color: #199ea5;
 }
 
+h2 {
+  font-size: 4.5ex;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 3ex;
+  font-weight: bold;
+}
+
 p {
   line-height: 1.4;
   font-size: 21px;
