@@ -58,4 +58,6 @@ table, th, td {
   /* border: 1px solid; */
   border-collapse: collapse;
   padding: 8px;
+  vertical-align: top;
+  text-align: left;
 }
