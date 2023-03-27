@@ -86,7 +86,7 @@ Program committee
  * Markulf Kohlweiss (University of Edinburgh / IOHK)
  * Thalia Laing (HP Inc.)
  * Giorgia Azzurra Marson (NEC)
- * Shin'Ichiro Matsuo (Georgetown University)
+ * Shin'ichiro Matsuo (Georgetown University)
  * Catherine Meadows (Naval Research Laboratory)
  * Maryam Mehrnezhad (Royal Holloway, University of London)
  * Chris Mitchell (Royal Holloway, University of London)
